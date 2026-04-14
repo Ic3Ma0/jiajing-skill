@@ -215,7 +215,7 @@ jiajing-skill/
 
 ## 灵感来源
 
-本Skill由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)生成，一个带你回到大明王朝时期的skill。
+本Skill由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)生成，一个用消费现实主义框架帮你看消费选择的Skill。
 
 ---
 
